@@ -1,0 +1,19 @@
+@font-face {
+    font-family: poppins-regular;
+    src: url(../fonts/poppins-regular.woff);
+}
+
+@font-face {
+    font-family: poppins-bold;
+    src: url(../fonts/poppins-bold.woff);
+}
+
+@font-face {
+    font-family: volkhov-bold;
+    src: url(../fonts/volkhov-bold.woff);
+}
+
+@font-face {
+    font-family: volkhov-regular;
+    src: url(../fonts/volkhov-bold.woff);
+}
